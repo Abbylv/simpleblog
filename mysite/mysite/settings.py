@@ -40,7 +40,10 @@ INSTALLED_APPS = [
     'blog',
 ]
 
-MIDDLEWARE = [
+# 在pythonanywhere上总出现"'WSGIRequest' object has no attribute 'user'"错
+# 修改"MIDDLEWARE = ["后登录成功（来源于http://www.heapoverflow.me/
+# question-django-error-wsgirequest-object-has-no-attribute-user-38930157）
+MIDDLEWARE_CLASSES = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',

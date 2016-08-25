@@ -1,0 +1,1442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45893299-80ac-4550-9187-16ad5881727f" name="Default" comment="" />
+    <ignored path="PycharmProjects.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PycharmProjects$dlg_custom.coverage" NAME="dlg-custom Coverage Results" MODIFIED="1458719123295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$http_getfile_urllib1.coverage" NAME="http-getfile-urllib1 Coverage Results" MODIFIED="1462520262716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Other" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$sorter.coverage" NAME="sorter Coverage Results" MODIFIED="1456970006039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/System/Streams" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$ppoint_pyw.coverage" NAME="ppoint.pyw Coverage Results" MODIFIED="1470296531692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/officeProg" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$submit.coverage" NAME="submit Coverage Results" MODIFIED="1463909535655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Web/PyErrata" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$prodcons.coverage" NAME="prodcons Coverage Results" MODIFIED="1469352764302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/multithreadedProg" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tsTclntTW.coverage" NAME="tsTclntTW Coverage Results" MODIFIED="1468571716924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/netProg" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mtsleepD.coverage" NAME="mtsleepD Coverage Results" MODIFIED="1469242376725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/multithreadedProg" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$entry3.coverage" NAME="entry3 Coverage Results" MODIFIED="1458738931260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mytools.coverage" NAME="mytools Coverage Results" MODIFIED="1459651213918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/ShellGui" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$person_start.coverage" NAME="person_start Coverage Results" MODIFIED="1456016969418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/Preview" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$manage.coverage" NAME="manage Coverage Results" MODIFIED="1471658542216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/django" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$thread_add_random.coverage" NAME="thread-add-random Coverage Results" MODIFIED="1457420109507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Threads" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$playfile.coverage" NAME="playfile Coverage Results" MODIFIED="1458399623752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Media" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$calculator_test.coverage" NAME="calculator_test Coverage Results" MODIFIED="1464422127763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Lang/Calculator" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$demo_radio_manual.coverage" NAME="demo-radio-manual Coverage Results" MODIFIED="1458801358703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$demo_scale_simple.coverage" NAME="demo-scale-simple Coverage Results" MODIFIED="1458806734818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$calc0emb.coverage" NAME="calc0emb Coverage Results" MODIFIED="1464398512890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Lang/Calculator" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$ftptools.coverage" NAME="ftptools Coverage Results" MODIFIED="1462093625623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Ftp/Mirror" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$grid2_fails.coverage" NAME="grid2-fails Coverage Results" MODIFIED="1459406480560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tour/Grid" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$update_db_pickle.coverage" NAME="update_db_pickle Coverage Results" MODIFIED="1455953221844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/Preview" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$badlink.coverage" NAME="badlink Coverage Results" MODIFIED="1463578260235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Web/cgi-bin" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$stacklog.coverage" NAME="stacklog Coverage Results" MODIFIED="1464096453931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Dstruct/Basic" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tsTservSS.coverage" NAME="tsTservSS Coverage Results" MODIFIED="1468546560265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/netProg" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tkinter101.coverage" NAME="tkinter101 Coverage Results" MODIFIED="1456042414010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/Preview" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$peopleinteract_query.coverage" NAME="peopleinteract_query Coverage Results" MODIFIED="1456038867748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/Preview" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Full_dpx_cha_Ser.coverage" NAME="Full-dpx-cha-Ser Coverage Results" MODIFIED="1468749064778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/netProg/excise" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$menuDemo.coverage" NAME="menuDemo Coverage Results" MODIFIED="1458991959149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$update_db_shelve.coverage" NAME="update_db_shelve Coverage Results" MODIFIED="1455968969163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/Preview" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$fungui.coverage" NAME="fungui Coverage Results" MODIFIED="1456313180322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/Preview" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Half_dpx_cha_Ser.coverage" NAME="Half-dpx-cha-Ser Coverage Results" MODIFIED="1468835274962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/netProg/excise" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$simFTPClient.coverage" NAME="simFTPClient Coverage Results" MODIFIED="1470381039889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/InterCliProg/excise" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pipes_testchild.coverage" NAME="pipes-testchild Coverage Results" MODIFIED="1457525342806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Processes" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$grid5c.coverage" NAME="grid5c Coverage Results" MODIFIED="1459427834447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tour/Grid" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gui5b_themed_user.coverage" NAME="gui5b-themed-user Coverage Results" MODIFIED="1458612286378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Intro" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$lister_walk.coverage" NAME="lister_walk Coverage Results" MODIFIED="1461739504723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/System/Filetools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tsUserv.coverage" NAME="tsUserv Coverage Results" MODIFIED="1468658944031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/netProg" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$ushuffle_mongo.coverage" NAME="ushuffle_mongo Coverage Results" MODIFIED="1470224385093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/dbProg" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$textEditorNoConsole_pyw.coverage" NAME="textEditorNoConsole.pyw Coverage Results" MODIFIED="1461398815594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/TextEditor" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$echo_server.coverage" NAME="echo-server Coverage Results" MODIFIED="1461804283995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Sockets" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gui7.coverage" NAME="gui7 Coverage Results" MODIFIED="1458615914328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Intro" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$multi_server.coverage" NAME="multi-server Coverage Results" MODIFIED="1461805406569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Sockets" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$dump_db_pickle_recs.coverage" NAME="dump_db_pickle_recs Coverage Results" MODIFIED="1455966823879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/Preview" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$setcolor.coverage" NAME="setcolor Coverage Results" MODIFIED="1458714960231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$threads_demoAll_frm.coverage" NAME="threads-demoAll-frm Coverage Results" MODIFIED="1459429152221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$echo_client.coverage" NAME="echo-client Coverage Results" MODIFIED="1461805409153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Sockets" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gui3b.coverage" NAME="gui3b Coverage Results" MODIFIED="1458562609953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Intro" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gui1g.coverage" NAME="gui1g Coverage Results" MODIFIED="1458545508467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Intro" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$buttonpics.coverage" NAME="buttonpics Coverage Results" MODIFIED="1458824272400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$demoCheck.coverage" NAME="demoCheck Coverage Results" MODIFIED="1458783901634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$optionmenu.coverage" NAME="optionmenu Coverage Results" MODIFIED="1458989640991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mtsleepB.coverage" NAME="mtsleepB Coverage Results" MODIFIED="1469240494180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/multithreadedProg" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$dlg_recursive.coverage" NAME="dlg-recursive Coverage Results" MODIFIED="1458720324242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$calculator_plusplus.coverage" NAME="calculator_plusplus Coverage Results" MODIFIED="1464423133296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Lang/Calculator" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$alarm.coverage" NAME="alarm Coverage Results" MODIFIED="1459429892793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$http_getfile.coverage" NAME="http-getfile Coverage Results" MODIFIED="1462505205403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Other" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gendata.coverage" NAME="gendata Coverage Results" MODIFIED="1468457769215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/regex" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$testexit_thread.coverage" NAME="testexit_thread Coverage Results" MODIFIED="1457512206257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Exits" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tkinter103.coverage" NAME="tkinter103 Coverage Results" MODIFIED="1456102499586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/Preview" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$multi2.coverage" NAME="multi2 Coverage Results" MODIFIED="1457595931300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Processes" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$bigpy_path.coverage" NAME="bigpy-path Coverage Results" MODIFIED="1457701662234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Filetools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$cleanpyc.coverage" NAME="cleanpyc Coverage Results" MODIFIED="1458261624531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pipe_nongui.coverage" NAME="pipe-nongui Coverage Results" MODIFIED="1459776151007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pipe_gui1.coverage" NAME="pipe-gui1 Coverage Results" MODIFIED="1459776041801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$unpacker.coverage" NAME="unpacker Coverage Results" MODIFIED="1459652598054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/ShellGui" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$demoAll_frm_ridge.coverage" NAME="demoAll-frm-ridge Coverage Results" MODIFIED="1458809380602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$threads_demoAll_win.coverage" NAME="threads-demoAll-win Coverage Results" MODIFIED="1459429129163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$customizegui.coverage" NAME="customizegui Coverage Results" MODIFIED="1456100845542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/Preview" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$multi4.coverage" NAME="multi4 Coverage Results" MODIFIED="1457599256507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Processes" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$calculator_plus_emb.coverage" NAME="calculator_plus_emb Coverage Results" MODIFIED="1464422412309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Lang/Calculator" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$dump_db_pickle.coverage" NAME="dump_db_pickle Coverage Results" MODIFIED="1455953293723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/Preview" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$treeview.coverage" NAME="treeview Coverage Results" MODIFIED="1464167207952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Dstruct/TreeView" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$thread_classes.coverage" NAME="thread-classes Coverage Results" MODIFIED="1457405552855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Threads" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$estock_pyw.coverage" NAME="estock.pyw Coverage Results" MODIFIED="1470297839138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/officeProg" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1450486287974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$canvasDraw_tags_thread.coverage" NAME="canvasDraw_tags_thread Coverage Results" MODIFIED="1459585270935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$menuDemo3.coverage" NAME="menuDemo3 Coverage Results" MODIFIED="1458996102909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$db_ins_data.coverage" NAME="db_ins_data Coverage Results" MODIFIED="1469952752036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP/pmh" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gui5.coverage" NAME="gui5 Coverage Results" MODIFIED="1458606363525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Intro" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$viewer_thumbs_grid.coverage" NAME="viewer-thumbs-grid Coverage Results" MODIFIED="1458896596349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/PIL" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$bind.coverage" NAME="bind Coverage Results" MODIFIED="1458721839023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$socket_nongui.coverage" NAME="socket-nongui Coverage Results" MODIFIED="1459775466599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gui5b.coverage" NAME="gui5b Coverage Results" MODIFIED="1458611639655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Intro" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$testecho.coverage" NAME="testecho Coverage Results" MODIFIED="1461764512347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Sockets" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$testexit_os.coverage" NAME="testexit_os Coverage Results" MODIFIED="1457490148925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Exits" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$form.coverage" NAME="form Coverage Results" MODIFIED="1461932466776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Sockets" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$estock.coverage" NAME="estock Coverage Results" MODIFIED="1470319584945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/officeProg/excise" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$LoginScript.coverage" NAME="LoginScript Coverage Results" MODIFIED="1463137374443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Email/PyMailGui" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$calc0.coverage" NAME="calc0 Coverage Results" MODIFIED="1464395151305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Lang/Calculator" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$socket_gui.coverage" NAME="socket-gui Coverage Results" MODIFIED="1459775433118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$queuetest3.coverage" NAME="queuetest3 Coverage Results" MODIFIED="1457424235910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Threads" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pipe_gui3.coverage" NAME="pipe_gui3 Coverage Results" MODIFIED="1460031240822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$ushuffle_sad.coverage" NAME="ushuffle_sad Coverage Results" MODIFIED="1469872430150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/dbProg" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$thread_server.coverage" NAME="thread-server Coverage Results" MODIFIED="1461807685788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Sockets" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$attachgui.coverage" NAME="attachgui Coverage Results" MODIFIED="1456043352371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/Preview" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gui1e.coverage" NAME="gui1e Coverage Results" MODIFIED="1458544846131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Intro" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$viewer_tk.coverage" NAME="viewer-tk Coverage Results" MODIFIED="1458887685653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/PIL" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$getfilegui_2.coverage" NAME="getfilegui-2 Coverage Results" MODIFIED="1461931662745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Sockets" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$bookrand.coverage" NAME="bookrand Coverage Results" MODIFIED="1469368565961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/multithreadedProg" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$thread_count_wait2.coverage" NAME="thread-count-wait2 Coverage Results" MODIFIED="1457403122250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Threads" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$find.coverage" NAME="find Coverage Results" MODIFIED="1457963607039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tutor1.coverage" NAME="tutor1 Coverage Results" MODIFIED="1463407457340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Web/cgi-bin" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$for_test1.coverage" NAME="for test1 Coverage Results" MODIFIED="1458872737700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$calc0ext.coverage" NAME="calc0ext Coverage Results" MODIFIED="1464398123233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Lang/Calculator" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$grid4.coverage" NAME="grid4 Coverage Results" MODIFIED="1459414808586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tour/Grid" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gui3c.coverage" NAME="gui3c Coverage Results" MODIFIED="1458567528433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Intro" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$for_test.coverage" NAME="for test Coverage Results" MODIFIED="1458633973619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Preview" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$canvas1.coverage" NAME="canvas1 Coverage Results" MODIFIED="1459326963643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$loaddb1.coverage" NAME="loaddb1 Coverage Results" MODIFIED="1464076734234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Dbase/Sql" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mtsleepF.coverage" NAME="mtsleepF Coverage Results" MODIFIED="1469283769421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/multithreadedProg" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$four_threads.coverage" NAME="four-threads Coverage Results" MODIFIED="1457419357904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Threads" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gui6b.coverage" NAME="gui6b Coverage Results" MODIFIED="1458613353392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Intro" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$demoScale.coverage" NAME="demoScale Coverage Results" MODIFIED="1458806223199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$demoAll_prg.coverage" NAME="demoAll-prg Coverage Results" MODIFIED="1458811130682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$demoAll_prg_multi.coverage" NAME="demoAll-prg-multi Coverage Results" MODIFIED="1458818693602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$webserver__1_.coverage" NAME="webserver (1) Coverage Results" MODIFIED="1471337767284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP/pmh" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$viewer_dir.coverage" NAME="viewer-dir Coverage Results" MODIFIED="1458894938952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/PIL" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tutor0.coverage" NAME="tutor0 Coverage Results" MODIFIED="1463403943256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Web/cgi-bin" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$socket_preview_progs.coverage" NAME="socket-preview-progs Coverage Results" MODIFIED="1457577124923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Processes" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$commands.coverage" NAME="commands Coverage Results" MODIFIED="1457262880583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Filetools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$dumpdb.coverage" NAME="dumpdb Coverage Results" MODIFIED="1464081675181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Dbase/Sql" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$multi6.coverage" NAME="multi6 Coverage Results" MODIFIED="1457601731148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Processes" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$canvas_bind.coverage" NAME="canvas-bind Coverage Results" MODIFIED="1459393565560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$onethr.coverage" NAME="onethr Coverage Results" MODIFIED="1469239295027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/multithreadedProg" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$child.coverage" NAME="child Coverage Results" MODIFIED="1457351524532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Processes" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$thread_count_wait3.coverage" NAME="thread-count-wait3 Coverage Results" MODIFIED="1457404083553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Threads" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$PyDemos_pyw.coverage" NAME="PyDemos.pyw Coverage Results" MODIFIED="1462537619556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gui1d.coverage" NAME="gui1d Coverage Results" MODIFIED="1458543561493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Intro" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$testargv.coverage" NAME="testargv Coverage Results" MODIFIED="1456649762972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/System" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pipe_unbuff_writer.coverage" NAME="pipe-unbuff-writer Coverage Results" MODIFIED="1461847733342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Sockets" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$clock.coverage" NAME="clock Coverage Results" MODIFIED="1461629720251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Clock" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$entry1.coverage" NAME="entry1 Coverage Results" MODIFIED="1458724487489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$packer.coverage" NAME="packer Coverage Results" MODIFIED="1459652412722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/ShellGui" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$getLatestFTP.coverage" NAME="getLatestFTP Coverage Results" MODIFIED="1469019357875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/InterCliProg" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gui4.coverage" NAME="gui4 Coverage Results" MODIFIED="1458605940592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Intro" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$queuetest_gui.coverage" NAME="queuetest-gui Coverage Results" MODIFIED="1459751912491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$friendsC.coverage" NAME="friendsC Coverage Results" MODIFIED="1470789471934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/CGI&amp;WSGI/cgi-bin" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$languages_src.coverage" NAME="languages-src Coverage Results" MODIFIED="1463579143238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Web/cgi-bin" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$windows_test.coverage" NAME="windows-test Coverage Results" MODIFIED="1459750097625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$socket_stream_redirect0.coverage" NAME="socket_stream_redirect0 Coverage Results" MODIFIED="1459775340847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$selftest.coverage" NAME="selftest Coverage Results" MODIFIED="1462353244985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Email/mailtools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$quitter.coverage" NAME="quitter Coverage Results" MODIFIED="1458652499994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$canvasDraw.coverage" NAME="canvasDraw Coverage Results" MODIFIED="1459387211256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$manager.coverage" NAME="manager Coverage Results" MODIFIED="1456021628876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/Preview" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$demo_radio_multi.coverage" NAME="demo-radio-multi Coverage Results" MODIFIED="1458818542864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$shellgui.coverage" NAME="shellgui Coverage Results" MODIFIED="1459649821257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/ShellGui" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$visitor.coverage" NAME="visitor Coverage Results" MODIFIED="1458370372806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$excel_pyw.coverage" NAME="excel.pyw Coverage Results" MODIFIED="1470280415860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/officeProg" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tsTservTW.coverage" NAME="tsTservTW Coverage Results" MODIFIED="1468571672165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/netProg" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$dbconfig.coverage" NAME="dbconfig Coverage Results" MODIFIED="1465181542582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP/py&amp;mysql&amp;html" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$menuDemo2.coverage" NAME="menuDemo2 Coverage Results" MODIFIED="1458995956522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Unittests_in_guimaker.coverage" NAME="Unittests in guimaker Coverage Results" MODIFIED="1459598506077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gui1.coverage" NAME="gui1 Coverage Results" MODIFIED="1458465030921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Intro" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$readnews.coverage" NAME="readnews Coverage Results" MODIFIED="1462495738340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Other" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$onViewPageAction.coverage" NAME="onViewPageAction Coverage Results" MODIFIED="1465376948288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP/py&amp;mysql&amp;html/cgi-bin" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$signal1.coverage" NAME="signal1 Coverage Results" MODIFIED="1457579000709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Processes" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mtsleepC.coverage" NAME="mtsleepC Coverage Results" MODIFIED="1469241169488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/multithreadedProg" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$smtpmail.coverage" NAME="smtpmail Coverage Results" MODIFIED="1472003997640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP/for email" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$dump_db_shelve.coverage" NAME="dump_db_shelve Coverage Results" MODIFIED="1455968989397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/Preview" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$demo_check_manual.coverage" NAME="demo-check-manual Coverage Results" MODIFIED="1458785969422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$diffall.coverage" NAME="diffall Coverage Results" MODIFIED="1457958830755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Filetools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$ftpServer.coverage" NAME="ftpServer Coverage Results" MODIFIED="1470362493386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$adder.coverage" NAME="adder Coverage Results" MODIFIED="1456970040176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/System/Streams" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$queuetest.coverage" NAME="queuetest Coverage Results" MODIFIED="1457423256851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Threads" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$menu_win_multi.coverage" NAME="menu_win-multi Coverage Results" MODIFIED="1458980383734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pyphoto1.coverage" NAME="pyphoto1 Coverage Results" MODIFIED="1461463961362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/PIL" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$textConfig.coverage" NAME="textConfig Coverage Results" MODIFIED="1461381601001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/TextEditor" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$demo_radio_clear.coverage" NAME="demo-radio-clear Coverage Results" MODIFIED="1458802956295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$guiStreams.coverage" NAME="guiStreams Coverage Results" MODIFIED="1459686445538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$multi3.coverage" NAME="multi3 Coverage Results" MODIFIED="1457597678382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Processes" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$viewer_thumbs_fixed.coverage" NAME="viewer-thumbs-fixed Coverage Results" MODIFIED="1458955462307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/PIL" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$dirdiff.coverage" NAME="dirdiff Coverage Results" MODIFIED="1457944857668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Filetools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$fork1.coverage" NAME="fork1 Coverage Results" MODIFIED="1457332884358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Processes" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$viewer_pil.coverage" NAME="viewer-pil Coverage Results" MODIFIED="1458888349493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/PIL" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$getone_urllib.coverage" NAME="getone-urllib Coverage Results" MODIFIED="1461982310553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Ftp" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$demoAll_frm.coverage" NAME="demoAll-frm Coverage Results" MODIFIED="1458809374029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$dlg1_pyw.coverage" NAME="dlg1.pyw Coverage Results" MODIFIED="1458651892299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$spawnv.coverage" NAME="spawnv Coverage Results" MODIFIED="1457681832872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Processes" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gui6d.coverage" NAME="gui6d Coverage Results" MODIFIED="1458614740045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Intro" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$simpleedit2.coverage" NAME="simpleedit2 Coverage Results" MODIFIED="1459324114606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$PyFtpGui_pyw.coverage" NAME="PyFtpGui.pyw Coverage Results" MODIFIED="1462020302775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Ftp" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pipe_unbuff_reader.coverage" NAME="pipe-unbuff-reader Coverage Results" MODIFIED="1461848138792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Sockets" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$dlg_old.coverage" NAME="dlg-old Coverage Results" MODIFIED="1458715296626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Unittests_in_guimixin.coverage" NAME="Unittests in guimixin Coverage Results" MODIFIED="1459587437696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tsUclnt.coverage" NAME="tsUclnt Coverage Results" MODIFIED="1468658946370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/netProg" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$demoDlg.coverage" NAME="demoDlg Coverage Results" MODIFIED="1458713228166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pymail.coverage" NAME="pymail Coverage Results" MODIFIED="1462322241730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Email" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$menu_frm_multi2.coverage" NAME="menu_frm-multi2 Coverage Results" MODIFIED="1458989005896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gui6.coverage" NAME="gui6 Coverage Results" MODIFIED="1458612524672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Intro" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$PyMailGui.coverage" NAME="PyMailGui Coverage Results" MODIFIED="1463137598718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Email/PyMailGui" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Full_dpx_cha_Cln.coverage" NAME="Full-dpx-cha-Cln Coverage Results" MODIFIED="1468828268786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/netProg/excise" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$make_db_classes.coverage" NAME="make_db_classes Coverage Results" MODIFIED="1456024232188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/Preview" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$menu_frm.coverage" NAME="menu_frm Coverage Results" MODIFIED="1458981947679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$entry2.coverage" NAME="entry2 Coverage Results" MODIFIED="1458737392493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$packdlg.coverage" NAME="packdlg Coverage Results" MODIFIED="1459672625449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/ShellGui" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$db_query.coverage" NAME="db_query Coverage Results" MODIFIED="1465369912250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP/py&amp;mysql&amp;html" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$sendurl.coverage" NAME="sendurl Coverage Results" MODIFIED="1463797127413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Web/PyMailCgi" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$grid5b.coverage" NAME="grid5b Coverage Results" MODIFIED="1459427335268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tour/Grid" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$9_3.coverage" NAME="9-3 Coverage Results" MODIFIED="1470724921974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/web_C&amp;S/excise" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$downloadflat.coverage" NAME="downloadflat Coverage Results" MODIFIED="1462022284814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Ftp/Mirror" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tkinter102.coverage" NAME="tkinter102 Coverage Results" MODIFIED="1456043051821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/Preview" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$testexit_sys.coverage" NAME="testexit_sys Coverage Results" MODIFIED="1457490156833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Exits" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$clockStyles.coverage" NAME="clockStyles Coverage Results" MODIFIED="1461588427351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Clock" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$http_getfile_urllib2.coverage" NAME="http-getfile-urllib2 Coverage Results" MODIFIED="1462520302693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Other" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$config_button.coverage" NAME="config-button Coverage Results" MODIFIED="1458631471806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tester.coverage" NAME="tester Coverage Results" MODIFIED="1457919139136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Tester" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$manage__1_.coverage" NAME="manage (1) Coverage Results" MODIFIED="1471747323376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mydjango" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$cleanpyc_find_shell.coverage" NAME="cleanpyc-find-shell Coverage Results" MODIFIED="1458262168852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$more.coverage" NAME="more Coverage Results" MODIFIED="1456485095056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/System" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$sousa.coverage" NAME="sousa Coverage Results" MODIFIED="1461997458376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Ftp" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$formMockup.coverage" NAME="formMockup Coverage Results" MODIFIED="1463575733893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Web/cgi-bin" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tsTclntSS.coverage" NAME="tsTclntSS Coverage Results" MODIFIED="1468546562059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/netProg" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$toplevel0.coverage" NAME="toplevel0 Coverage Results" MODIFIED="1458631822584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Login_Script.coverage" NAME="Login Script Coverage Results" MODIFIED="1469023506506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP/for email" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$widgets.coverage" NAME="widgets Coverage Results" MODIFIED="1459587429762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tsTclnt.coverage" NAME="tsTclnt Coverage Results" MODIFIED="1468656840423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/netProg" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$browse.coverage" NAME="browse Coverage Results" MODIFIED="1463909522220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Web/PyErrata" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gui7b.coverage" NAME="gui7b Coverage Results" MODIFIED="1458616360796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Intro" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$teststreams.coverage" NAME="teststreams Coverage Results" MODIFIED="1456968585881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/System/Streams" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mtprodcons.coverage" NAME="mtprodcons Coverage Results" MODIFIED="1469497167297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/multithreadedProg/excise" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$thread_count_mutex.coverage" NAME="thread-count-mutex Coverage Results" MODIFIED="1457400674640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Threads" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$canvasDraw_tags_after.coverage" NAME="canvasDraw_tags_after Coverage Results" MODIFIED="1459495467630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mtfacfib.coverage" NAME="mtfacfib Coverage Results" MODIFIED="1469258416059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/multithreadedProg" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$launchmodes.coverage" NAME="launchmodes Coverage Results" MODIFIED="1457681880994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$setenv.coverage" NAME="setenv Coverage Results" MODIFIED="1456901665783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/System/Environment" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$packdlg_redirect.coverage" NAME="packdlg-redirect Coverage Results" MODIFIED="1459687715195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/ShellGui" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$socket_preview.coverage" NAME="socket_preview Coverage Results" MODIFIED="1457577202365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Processes" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$buttonpics_func.coverage" NAME="buttonpics-func Coverage Results" MODIFIED="1458823493330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$dump_db_file.coverage" NAME="dump_db_file Coverage Results" MODIFIED="1455950062862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/Preview" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$alarm_hide.coverage" NAME="alarm-hide Coverage Results" MODIFIED="1459430498452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Half_dpx_cha_Cln.coverage" NAME="Half-dpx-cha-Cln Coverage Results" MODIFIED="1468835325359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/netProg/excise" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$thread_add_synch.coverage" NAME="thread-add-synch Coverage Results" MODIFIED="1457420261766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Threads" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$buttonbars.coverage" NAME="buttonbars Coverage Results" MODIFIED="1458820441684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$ushuffle_sae.coverage" NAME="ushuffle_sae Coverage Results" MODIFIED="1469880126477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/dbProg" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$urlopen_auth3.coverage" NAME="urlopen_auth3 Coverage Results" MODIFIED="1470451916510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/web_C&amp;S" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$toplevel2.coverage" NAME="toplevel2 Coverage Results" MODIFIED="1458649552031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$update_db_file.coverage" NAME="update_db_file Coverage Results" MODIFIED="1455950050038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/Preview" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$big_gui.coverage" NAME="big_gui Coverage Results" MODIFIED="1459605755275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$plotterGui.coverage" NAME="plotterGui Coverage Results" MODIFIED="1461585692268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Clock" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$papa_zhihu.coverage" NAME="papa-zhihu Coverage Results" MODIFIED="1455937112033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$entry3_modal.coverage" NAME="entry3-modal Coverage Results" MODIFIED="1458739071672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$scrolledcanvas.coverage" NAME="scrolledcanvas Coverage Results" MODIFIED="1459344730176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gui3d.coverage" NAME="gui3d Coverage Results" MODIFIED="1458568108922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Intro" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$update_db_classes.coverage" NAME="update_db_classes Coverage Results" MODIFIED="1456024492724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/Preview" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$htmlparser.coverage" NAME="htmlparser Coverage Results" MODIFIED="1464358540886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Lang/Xml" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$excel2html.coverage" NAME="excel2html Coverage Results" MODIFIED="1470356098062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/officeProg/excise" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$demo_radio_auto.coverage" NAME="demo-radio-auto Coverage Results" MODIFIED="1458801624355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$formrows.coverage" NAME="formrows Coverage Results" MODIFIED="1459663417733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/ShellGui" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$person.coverage" NAME="person Coverage Results" MODIFIED="1456021646415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/Preview" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$testargv2.coverage" NAME="testargv2 Coverage Results" MODIFIED="1456649781985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/System" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$imgCanvas2.coverage" NAME="imgCanvas2 Coverage Results" MODIFIED="1458822780530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$peoplegui.coverage" NAME="peoplegui Coverage Results" MODIFIED="1456274117442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/Preview" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$signal2.coverage" NAME="signal2 Coverage Results" MODIFIED="1457579132757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Processes" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$thread1.coverage" NAME="thread1 Coverage Results" MODIFIED="1457356362999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Threads" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$echoenv.coverage" NAME="echoenv Coverage Results" MODIFIED="1456901616870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/System/Environment" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$parse_links.coverage" NAME="parse_links Coverage Results" MODIFIED="1470730351754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/web_C&amp;S" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Unittests_in_guimaker__1_.coverage" NAME="Unittests in guimaker (1) Coverage Results" MODIFIED="1459604717598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$popmail__1_.coverage" NAME="popmail (1) Coverage Results" MODIFIED="1462324672473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/for email" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$menu_win.coverage" NAME="menu_win Coverage Results" MODIFIED="1458980786977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$threadtools_test_classes.coverage" NAME="threadtools-test-classes Coverage Results" MODIFIED="1459772898927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pipe_thread.coverage" NAME="pipe-thread Coverage Results" MODIFIED="1457521441272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Processes" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$re_basics.coverage" NAME="re-basics Coverage Results" MODIFIED="1464350079258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Lang" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mtsleepA.coverage" NAME="mtsleepA Coverage Results" MODIFIED="1469240670789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/multithreadedProg" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$settings.coverage" NAME="settings Coverage Results" MODIFIED="1471658534131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/django/mysite" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mainloopdemo.coverage" NAME="mainloopdemo Coverage Results" MODIFIED="1459773721315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$threadtools.coverage" NAME="threadtools Coverage Results" MODIFIED="1459769662357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test_stream_modes.coverage" NAME="test-stream-modes Coverage Results" MODIFIED="1461846320965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Sockets" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1464400039524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Lang/Calculator" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gsearch2.coverage" NAME="gsearch2 Coverage Results" MODIFIED="1464145706852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Dstruct/Classics" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$unpkdlg.coverage" NAME="unpkdlg Coverage Results" MODIFIED="1459673214118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/ShellGui" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$imgCanvas.coverage" NAME="imgCanvas Coverage Results" MODIFIED="1458822667974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$dump_db_classes.coverage" NAME="dump_db_classes Coverage Results" MODIFIED="1456024500925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/Preview" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$viewer_thumbs_scrolled.coverage" NAME="viewer_thumbs_scrolled Coverage Results" MODIFIED="1459385179056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/PIL" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$rad.coverage" NAME="rad Coverage Results" MODIFIED="1459689133054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$multi1.coverage" NAME="multi1 Coverage Results" MODIFIED="1457593123638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Processes" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mbutton.coverage" NAME="mbutton Coverage Results" MODIFIED="1458989412266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$ushuffle_db.coverage" NAME="ushuffle_db Coverage Results" MODIFIED="1469880118468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/dbProg" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$getfile.coverage" NAME="getfile Coverage Results" MODIFIED="1461895407988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Sockets" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$onRootViewLink.coverage" NAME="onRootViewLink Coverage Results" MODIFIED="1465374203486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP/py&amp;mysql&amp;html/cgi-bin" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$demoAll_win.coverage" NAME="demoAll-win Coverage Results" MODIFIED="1458811050326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test_socket_stream_redirect.coverage" NAME="test-socket_stream_redirect Coverage Results" MODIFIED="1461843043923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Sockets" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$getfilegui_1.coverage" NAME="getfilegui-1 Coverage Results" MODIFIED="1461927710314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Sockets" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gui3.coverage" NAME="gui3 Coverage Results" MODIFIED="1458562229778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Intro" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tkinter001.coverage" NAME="tkinter001 Coverage Results" MODIFIED="1456041340438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/Preview" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gsearch1.coverage" NAME="gsearch1 Coverage Results" MODIFIED="1464145468116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Dstruct/Classics" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gui2.coverage" NAME="gui2 Coverage Results" MODIFIED="1458560364176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Intro" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$loaddb.coverage" NAME="loaddb Coverage Results" MODIFIED="1464077636506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Dbase/Sql" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tsTserv.coverage" NAME="tsTserv Coverage Results" MODIFIED="1468656838748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/netProg" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$make_db_file.coverage" NAME="make_db_file Coverage Results" MODIFIED="1455938419748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/Preview" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$adder2.coverage" NAME="adder2 Coverage Results" MODIFIED="1456971011716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/System/Streams" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gui5b_themed.coverage" NAME="gui5b-themed Coverage Results" MODIFIED="1458611897740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Intro" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$menu_frm_multi.coverage" NAME="menu_frm-multi Coverage Results" MODIFIED="1458988803813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$activate_this.coverage" NAME="activate_this Coverage Results" MODIFIED="1471657642298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Django/myvirtualenvironment/Scripts" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$demoDlg_print.coverage" NAME="demoDlg-print Coverage Results" MODIFIED="1458714569866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$thread_count.coverage" NAME="thread-count Coverage Results" MODIFIED="1457399375086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Threads" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$texttags.coverage" NAME="texttags Coverage Results" MODIFIED="1459324331307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pipe1.coverage" NAME="pipe1 Coverage Results" MODIFIED="1457519526380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Processes" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$scrolledlist.coverage" NAME="scrolledlist Coverage Results" MODIFIED="1459079293267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$select_server.coverage" NAME="select-server Coverage Results" MODIFIED="1461828108482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Sockets" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$multi5.coverage" NAME="multi5 Coverage Results" MODIFIED="1457601025960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Processes" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Launcher.coverage" NAME="Launcher Coverage Results" MODIFIED="1457681839707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$bookrank3CF.coverage" NAME="bookrank3CF Coverage Results" MODIFIED="1469448704538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/multithreadedProg" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$for_test__1_.coverage" NAME="for test (1) Coverage Results" MODIFIED="1470900479260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$scrolledtext.coverage" NAME="scrolledtext Coverage Results" MODIFIED="1459086425216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pipe_gui2.coverage" NAME="pipe-gui2 Coverage Results" MODIFIED="1459776270759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$peopleinteract_update.coverage" NAME="peopleinteract_update Coverage Results" MODIFIED="1456040388730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/Preview" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$mtsleepE.coverage" NAME="mtsleepE Coverage Results" MODIFIED="1469283257220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/multithreadedProg" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gui3e.coverage" NAME="gui3e Coverage Results" MODIFIED="1458568657010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Intro" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$whereami.coverage" NAME="whereami Coverage Results" MODIFIED="1456645209861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/System" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$4_9.coverage" NAME="4-9 Coverage Results" MODIFIED="1469501039376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/multithreadedProg/excise" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gui6c.coverage" NAME="gui6c Coverage Results" MODIFIED="1458613749655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Intro" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$thread_alts.coverage" NAME="thread-alts Coverage Results" MODIFIED="1457358307515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Threads" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$viewer_thumbs.coverage" NAME="viewer_thumbs Coverage Results" MODIFIED="1458895033066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/PIL" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$textEditor.coverage" NAME="textEditor Coverage Results" MODIFIED="1461393542986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/TextEditor" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test.coverage" NAME="test Coverage Results" MODIFIED="1471339848891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP/pmh" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$entry2_modal.coverage" NAME="entry2-modal Coverage Results" MODIFIED="1458737665800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$candy.coverage" NAME="candy Coverage Results" MODIFIED="1469501177201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/multithreadedProg" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$word_pyw.coverage" NAME="word.pyw Coverage Results" MODIFIED="1470280933203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/officeProg" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$alarm_withdraw.coverage" NAME="alarm-withdraw Coverage Results" MODIFIED="1459430852398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$queuetest2.coverage" NAME="queuetest2 Coverage Results" MODIFIED="1457423410682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Threads" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$stacktime.coverage" NAME="stacktime Coverage Results" MODIFIED="1464099631048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Dstruct/Basic" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$webserver.coverage" NAME="webserver Coverage Results" MODIFIED="1471651151698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP/pmh" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$testexit_fork.coverage" NAME="testexit_fork Coverage Results" MODIFIED="1457511193742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Exits" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$thread_count_wait1.coverage" NAME="thread-count-wait1 Coverage Results" MODIFIED="1457401989252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/System/Threads" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gui2b.coverage" NAME="gui2b Coverage Results" MODIFIED="1458561372073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Intro" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$class_server.coverage" NAME="class-server Coverage Results" MODIFIED="1461812938040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Sockets" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$message.coverage" NAME="message Coverage Results" MODIFIED="1458724142421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gui1f.coverage" NAME="gui1f Coverage Results" MODIFIED="1458545459200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Intro" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$toplevel1.coverage" NAME="toplevel1 Coverage Results" MODIFIED="1458648135526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tutor2.coverage" NAME="tutor2 Coverage Results" MODIFIED="1463407917451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Web/cgi-bin" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$initdata.coverage" NAME="initdata Coverage Results" MODIFIED="1455937147179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP4E/Preview" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$grid5.coverage" NAME="grid5 Coverage Results" MODIFIED="1459415087604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tour/Grid" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$canvasDraw_tags.coverage" NAME="canvasDraw_tags Coverage Results" MODIFIED="1459494118215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$getfilegui.coverage" NAME="getfilegui Coverage Results" MODIFIED="1462002365665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Ftp" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$simpleedit.coverage" NAME="simpleedit Coverage Results" MODIFIED="1459133802764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$popmail.coverage" NAME="popmail Coverage Results" MODIFIED="1469024486552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PP/for email" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$demoRadio.coverage" NAME="demoRadio Coverage Results" MODIFIED="1458800233424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$calculator_plus_ext.coverage" NAME="calculator_plus_ext Coverage Results" MODIFIED="1464422582027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Lang/Calculator" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gui1_old.coverage" NAME="gui1-old Coverage Results" MODIFIED="1458547505337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Intro" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$getone.coverage" NAME="getone Coverage Results" MODIFIED="1461978457464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/Python35/PP4E/Internet/Ftp" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$imgButton.coverage" NAME="imgButton Coverage Results" MODIFIED="1458821669982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python34/PP4E/Gui/Tour" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$9_1.coverage" NAME="9-1 Coverage Results" MODIFIED="1470562687461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CPAP3/web_C&amp;S/excise" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="PycharmProjects" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML4 File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CPAP3/multithreadedProg/excise/mtprodcons.py" />
+        <option value="$PROJECT_DIR$/CPAP3/multithreadedProg/excise/4-9.py" />
+        <option value="$PROJECT_DIR$/CPAP3/dbProg/ushuffle_sad.py" />
+        <option value="$PROJECT_DIR$/CPAP3/dbProg/ushuffle_sae.py" />
+        <option value="$PROJECT_DIR$/PP/pmh/db_ins_data.py" />
+        <option value="$PROJECT_DIR$/CPAP3/dbProg/ushuffle_db.py" />
+        <option value="$PROJECT_DIR$/CPAP3/dbProg/ushuffle_mongo.py" />
+        <option value="$PROJECT_DIR$/CPAP3/officeProg/excel.pyw.py" />
+        <option value="$PROJECT_DIR$/CPAP3/officeProg/word.pyw.py" />
+        <option value="$PROJECT_DIR$/CPAP3/officeProg/ppoint.pyw.py" />
+        <option value="$PROJECT_DIR$/CPAP3/officeProg/estock.pyw.py" />
+        <option value="$PROJECT_DIR$/CPAP3/officeProg/excise/estock.py" />
+        <option value="$PROJECT_DIR$/CPAP3/officeProg/excise/excel2html.py" />
+        <option value="$PROJECT_DIR$/PP/pmh/webserver.py" />
+        <option value="$PROJECT_DIR$/CPAP3/InterCliProg/excise/simFTPClient.py" />
+        <option value="$PROJECT_DIR$/CPAP3/web_C&amp;S/urlopen_auth3.py" />
+        <option value="$PROJECT_DIR$/CPAP3/web_C&amp;S/parse_links.py" />
+        <option value="$PROJECT_DIR$/CPAP3/web_C&amp;S/excise/9-1.py" />
+        <option value="$PROJECT_DIR$/CPAP3/web_C&amp;S/excise/9-3.py" />
+        <option value="$PROJECT_DIR$/CPAP3/web_C&amp;S/excise/9-22.py" />
+        <option value="$PROJECT_DIR$/CPAP3/CGI&amp;WSGI/cgi-bin/advcgi.py" />
+        <option value="$PROJECT_DIR$/CPAP3/CGI&amp;WSGI/cgi-bin/friendsC.py" />
+        <option value="$PROJECT_DIR$/PP/pmh/pycjcxcgi.html" />
+        <option value="$PROJECT_DIR$/CPAP3/for test.py" />
+        <option value="$PROJECT_DIR$/PP/pmh/cgi-bin/onRegistpage.py" />
+        <option value="$PROJECT_DIR$/PP/pmh/pycxindex.html" />
+        <option value="$PROJECT_DIR$/PP/pmh/cgi-bin/onQuery.py" />
+        <option value="$PROJECT_DIR$/PP/pmh/cgi-bin/onLoginpage.py" />
+        <option value="$PROJECT_DIR$/PP/pmh/cgi-bin/onRootViewLink.py" />
+        <option value="$PROJECT_DIR$/PP/pmh/cgi-bin/common.py" />
+        <option value="$PROJECT_DIR$/PP/pmh/cgi-bin/onViewPageAction.py" />
+        <option value="$PROJECT_DIR$/PP/pmh/declare" />
+        <option value="$PROJECT_DIR$/PP/pmh/test.py" />
+        <option value="$PROJECT_DIR$/Django/mysite/wsgi.py" />
+        <option value="$PROJECT_DIR$/Django/mysite/settings.py" />
+        <option value="$PROJECT_DIR$/django/mysite/settings.py" />
+        <option value="$PROJECT_DIR$/mydjango/mydjango/urls.py" />
+        <option value="$PROJECT_DIR$/mydjango/polls/models.py" />
+        <option value="$PROJECT_DIR$/mydjango/mydjango/settings.py" />
+        <option value="D:/Program Files/Python 3.5/Lib/site-packages/mysql/connector/django/operations.py" />
+        <option value="$PROJECT_DIR$/mydjango/templates/polls/index.html" />
+        <option value="$PROJECT_DIR$/mydjango/polls/templates/polls/test.html" />
+        <option value="$PROJECT_DIR$/mydjango/polls/urls.py" />
+        <option value="$PROJECT_DIR$/mydjango/polls/templates/polls/index.html" />
+        <option value="$PROJECT_DIR$/mydjango/polls/templates/polls/detail.html" />
+        <option value="$PROJECT_DIR$/mydjango/polls/views.py" />
+        <option value="$PROJECT_DIR$/mydjango/polls/templates/polls/results.html" />
+        <option value="$PROJECT_DIR$/PP/for email/smtpmail.py" />
+        <option value="$PROJECT_DIR$/mysite/mysite/settings.py" />
+        <option value="$PROJECT_DIR$/mysite/blog/models.py" />
+        <option value="$PROJECT_DIR$/mysite/blog/admin.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="557" />
+    <option name="width" value="815" />
+    <option name="height" value="554" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="添加" />
+    <OptionsSetting value="true" id="移除" />
+    <OptionsSetting value="true" id="签出" />
+    <OptionsSetting value="true" id="更新" />
+    <OptionsSetting value="true" id="状态" />
+    <OptionsSetting value="true" id="编辑" />
+    <ConfirmationsSetting value="0" id="添加" />
+    <ConfirmationsSetting value="0" id="移除" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="D:/Program Files/Python34/python.exe" />
+    <property name="recentsLimit" value="2" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;null&#9;null" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Mini tools\PycharmProjects\mydjango\polls\templates" />
+      <recent name="D:\Mini tools\PycharmProjects\CPAP3" />
+      <recent name="D:\Mini tools\PycharmProjects\PP" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Mini tools\PycharmProjects\PP\pmh" />
+      <recent name="D:\Mini tools\PycharmProjects\CPAP3\CGI&amp;WSGI" />
+      <recent name="D:\Mini tools\PycharmProjects\CPAP3\web_C&amp;S\excise" />
+      <recent name="D:\Mini tools\PycharmProjects\CPAP3\officeProg\excise" />
+      <recent name="D:\Mini tools\PycharmProjects\CPAP3\dbProg" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.smtpmail">
+    <configuration default="false" name="manage (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mydjango" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mydjango/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="smtpmail" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PP/for email" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mydjango" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PP/for email/smtpmail.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.AppEngineServer" factoryName="App Engine server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="host" value="127.0.0.1" />
+      <option name="browserUrl" value="" />
+      <option name="additionalOptions" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="for test" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/Program Files/python34/PP4E/Preview" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:/Program Files/python34/PP4E/Preview/for test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Django" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Django" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="mydjango" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mydjango" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.for test" />
+      <item index="1" class="java.lang.String" itemvalue="Django server.Django" />
+      <item index="2" class="java.lang.String" itemvalue="Django server.mydjango" />
+      <item index="3" class="java.lang.String" itemvalue="Python.manage (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.smtpmail" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.smtpmail" />
+        <item index="1" class="java.lang.String" itemvalue="Python.manage (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45893299-80ac-4550-9187-16ad5881727f" name="Default" comment="" />
+      <created>2176281625476</created>
+      <option name="number" value="Default" />
+      <updated>2176281625476</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_guimaker - 2016.04.02 at 20h 01m 32s.xml">
+      <configuration name="Unittests in guimaker" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_guimaker - 2016.04.02 at 20h 01m 46s.xml">
+      <configuration name="Unittests in guimaker" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_guimaker_(1) - 2016.04.02 at 20h 34m 57s.xml">
+      <configuration name="Unittests in guimaker (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_guimaker_(1) - 2016.04.02 at 21h 36m 59s.xml">
+      <configuration name="Unittests in guimaker (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_guimaker_(1) - 2016.04.02 at 21h 39m 10s.xml">
+      <configuration name="Unittests in guimaker (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_guimaker_(1) - 2016.04.02 at 21h 42m 28s.xml">
+      <configuration name="Unittests in guimaker (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_guimaker_(1) - 2016.04.02 at 21h 42m 53s.xml">
+      <configuration name="Unittests in guimaker (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_guimaker_(1) - 2016.04.02 at 21h 45m 17s.xml">
+      <configuration name="Unittests in guimaker (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_guimixin - 2016.04.02 at 16h 56m 51s.xml">
+      <configuration name="Unittests in guimixin" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_guimixin - 2016.04.02 at 16h 57m 17s.xml">
+      <configuration name="Unittests in guimixin" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="557" y="0" width="815" height="554" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24500665" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924336" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924336" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23924269" sideWeight="0.50537634" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924336" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24951456" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924336" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3058104" sideWeight="0.49462366" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21034482" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32535884" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://D:/Program Files/python34/PP4E/System/Processes/socket-preview-progs.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://D:/Program Files/Python35/PP4E/Internet/Email/pymail.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://D:/Program Files/Python35/PP4E/Dbase/Sql/dumpdb.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://D:/Program Files/Python 3.5/Lib/site-packages/mysql/connector/django/operations.py</url>
+          <line>220</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://D:/Program Files/Python 3.5/Lib/site-packages/mysql/connector/django/base.py</url>
+          <line>176</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://D:/Program Files/Python 3.5/Lib/site-packages/mysql/connector/cursor.py</url>
+          <line>514</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="27" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CPAP3/officeProg/ppoint.pyw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28282827">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CPAP3/officeProg/word.pyw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="19" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CPAP3/officeProg/excise/estock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CPAP3/officeProg/estock.pyw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CPAP3/officeProg/excise/excel2html.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2969432">
+          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CPAP3/InterCliProg/excise/simFTPClient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8558952">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CPAP3/web_C&amp;S/urlopen_auth3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06382979">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CPAP3/regex/for exercises.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PP/ftpServer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.90459365">
+          <caret line="270" column="13" selection-start-line="270" selection-start-column="13" selection-end-line="270" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CPAP3/web_C&amp;S/excise/9-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26666668">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CPAP3/web_C&amp;S/excise/9-3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7260726">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CPAP3/web_C&amp;S/parse_links.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CPAP3/web_C&amp;S/excise/9-22.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.84">
+          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CPAP3/CGI&amp;WSGI/cgi-bin/advcgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5451713">
+          <caret line="145" column="7" selection-start-line="145" selection-start-column="7" selection-end-line="145" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CPAP3/CGI&amp;WSGI/webserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6292835">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CPAP3/CGI&amp;WSGI/cgi-bin/friendsC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6168224">
+          <caret line="70" column="9" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PP/pmh/pycjcxcgi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CPAP3/for test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PP/pmh/cgi-bin/onLoginpage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.077192985">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PP/pmh/cgi-bin/onRegistpage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.077192985">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PP/pmh/pycxindex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.1290324">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PP/pmh/declare">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6407767">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PP/pmh/cgi-bin/onViewPageAction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37135923">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PP/pmh/cgi-bin/onRootViewLink.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32038835">
+          <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PP/pmh/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PP/pmh/cgi-bin/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.164">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PP/pmh/db_ins_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52">
+          <caret line="6" column="59" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PP/pmh/webserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.936">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PP/pmh/db_query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mydjango/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30787036">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mydjango/mydjango/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mydjango/polls/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21153846">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python 3.5/Lib/site-packages/mysql/connector/django/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mydjango/polls/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42086956">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python 3.5/Lib/site-packages/mysql/connector/connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4973913">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python 3.5/Lib/site-packages/mysql/connector/django/operations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4189189">
+          <caret line="222" column="37" selection-start-line="222" selection-start-column="37" selection-end-line="222" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mydjango/polls/templates/polls/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49811321">
+          <caret line="10" column="96" selection-start-line="10" selection-start-column="96" selection-end-line="10" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mydjango/polls/templates/polls/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.8709676">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mydjango/polls/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="72" selection-start-line="18" selection-start-column="72" selection-end-line="18" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mydjango/polls/templates/polls/results.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25283018">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mydjango/polls/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5202703">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PP/for email/smtpmail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.56122446">
+          <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python 3.5/Lib/site-packages/mysql/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mydjango/mydjango/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25384617">
+          <caret line="116" column="26" selection-start-line="116" selection-start-column="13" selection-end-line="116" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#308#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python 3.5/Lib/site-packages/mysql/connector/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.2">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python 3.5/Lib/site-packages/mysql/connector/cursor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.4384615">
+          <caret line="514" column="0" selection-start-line="514" selection-start-column="0" selection-end-line="515" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python 3.5/Lib/site-packages/mysql/connector/django/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.976923">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#60#490#1" expanded="false" />
+            <marker date="1441859142000" expanded="true" signature="17736:17962" placeholder="SELECT REFER... {2}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/mysite/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4653846">
+          <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/blog/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/blog/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.114285715">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/blog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.51428574">
+          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
